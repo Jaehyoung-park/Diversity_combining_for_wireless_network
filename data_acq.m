@@ -660,4 +660,7 @@ rx_symbol_mat(i,:) = rx_syms;
 end
 
 
+tx_data_re = reshape(dec2bin(tx_data)', 1, data_length);
+tx_data = uint8(tx_data_re) - 48;
+
 end
