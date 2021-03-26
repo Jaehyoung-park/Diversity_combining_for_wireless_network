@@ -1,3 +1,9 @@
+%% This code contain diversity combining schemes. 
+% Block-based combining method was introduced in [1], and symbol combining method was introduced in [2].
+% [1] - Miu, Allen, Hari Balakrishnan, and Can Emre Koksal. "Improving loss resilience with multi-radio diversity in wireless networks." Proceedings of the 11th annual international conference on Mobile computing and networking. 2005.
+% [2] - Gowda, Mahanth, et al. "Cooperative packet recovery in enterprise WLANs." 2013 Proceedings IEEE INFOCOM. IEEE, 2013.
+
+
 clear all;
 
 iter_num = 100;
