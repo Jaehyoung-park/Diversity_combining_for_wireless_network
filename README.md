@@ -1,7 +1,9 @@
 # Diversity_combining_for_wireless_network
 
 [1] - Miu, Allen, Hari Balakrishnan, and Can Emre Koksal. "Improving loss resilience with multi-radio diversity in wireless networks." Proceedings of the 11th annual international conference on Mobile computing and networking. 2005.
+
 [2] - Gowda, Mahanth, et al. "Cooperative packet recovery in enterprise WLANs." 2013 Proceedings IEEE INFOCOM. IEEE, 2013.
+
 
 
 The combining.m file implements a bit-level diversity combining scheme using SINR-based majority voting algorithm, block-based bit-level combining scheme proposed in the paper [1], and symbol-level combining scheme proposed in paper [2] using MATLAB. 
